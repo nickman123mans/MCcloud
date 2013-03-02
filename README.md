@@ -1,4 +1,4 @@
 MCcloud
 =======
 
-MCcloud minecraft server software Based on MCdawn needs devs and coders
+MCcloud minecraft server software Based on MCLawl needs devs and coders
